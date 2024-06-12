@@ -16,19 +16,19 @@ tags:
 
 1. **Robot Head Light Tracking**
 
-   ![Robot Head Light Tracking](\readme\The_robot_head_tracks_the_light_source.gif)
+   ![Robot Head Light Tracking](/readme/The_robot_head_tracks_the_light_source.gif)
 
    *The robot head autonomously tracks the light source.*
 
 2. **Robot Head Guiding Body for Light Tracking**
 
-   ![Robot Head Guides Body to Track Light Source](\readme\The_robot_head_guides_the_body_to_track_the_light_source.gif)
+   ![Robot Head Guides Body to Track Light Source](/readme/The_robot_head_guides_the_body_to_track_the_light_source.gif)
 
    *The robot head guides the body to track the light source effectively.*
 
 3. **Maze Path Planning**
 
-   ![Maze Path Planning](\readme\Maze_path_planning.gif)
+   ![Maze Path Planning](/readme/Maze_path_planning.gif)
 
    *Demonstration of maze path planning algorithm.*
 
